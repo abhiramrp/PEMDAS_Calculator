@@ -9,28 +9,10 @@ import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class EvaluatorDriver {
-    /**
-     * Driver class that use Evaluator to evaluate expressions.
-     * THe expressions can either be given as a command line argument
-     * OR typed in at the keyboard. If you wish to type in expressions
-     * give NO command line arguments. Otherwise you may give a list of
-     * strings as a command line argument and the driver will run all strings
-     * in that list.
-     *
-     * @param args command line arguments.
-     */
 
     static HashMap<String, String> testExpressions;
     static HashMap<String, Result> testResults;
-    /**
-     * **** Static Initializer Block Explanation ****
-     * This block of code is called a static initializer. It is executed when
-     * this class loaded  by the JVM. Now, when the class is loaded is tricky.
-     * But since this class has a main method and we use it as out main class,
-     * it will be loaded immediately. However, if it wasn't our main class, it
-     * would be loaded when the class is referenced. This becomes more interesting
-     * if we were to mix inheritance with this.
-     */
+
     static {
         EvaluatorDriver.testExpressions =  new HashMap<>();
         EvaluatorDriver.testExpressions.put("1+2","3");
@@ -90,12 +72,7 @@ public class EvaluatorDriver {
             });
             EvaluatorDriver.printTestResultsForAutoDriver();
         }else{
-            /* if a list of expressions are given as command line arguments
-             * we will execute all of them and display results.
-             * The format of the list of expressions should be:
-             * exp0 exp1 exp2 ... expN
-             * Each expressions should separated by spaces.
-             */
+
             for(String testExpression : args) {
                 try {
                     int actualResult;

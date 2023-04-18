@@ -67,12 +67,7 @@ public class EvaluatorUI extends JFrame implements ActionListener {
         setVisible(true);
     }
 
-    /**
-     * This function is triggered anytime a button is pressed
-     * on our Calculator GUI.
-     * @param actionEventObject Event object generated when a
-     *                    button is pressed.
-     */
+
     public void actionPerformed(ActionEvent actionEventObject) {
         String calcText = expressionTextField.getText();
 
