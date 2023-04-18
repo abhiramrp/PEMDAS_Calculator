@@ -1,8 +1,6 @@
 package operators;
 
-package edu.csc413.calculator.operators;
-
-import edu.csc413.calculator.evaluator.Operand;
+import evaluator.Operand;
 
 public class OpenOperator extends Operator{
     @Override

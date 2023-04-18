@@ -1,6 +1,6 @@
 package operators;
 
-import edu.csc413.calculator.evaluator.Operand;
+import evaluator.Operand;
 
 public class AddOperator extends Operator{
     @Override

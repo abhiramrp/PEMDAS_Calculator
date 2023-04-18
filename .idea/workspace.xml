@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32bf511f-8a26-44aa-9ebd-a273470f5c07" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluator/Evaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluator/EvaluatorDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluator/EvaluatorUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluator/Operand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/InvalidTokenException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators/AddOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators/CloseOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluator/Evaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evaluator/Evaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluator/EvaluatorDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evaluator/EvaluatorDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluator/EvaluatorUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evaluator/EvaluatorUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/AddOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/AddOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/CloseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/CloseOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/DivideOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/DivideOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/MultiplyOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/MultiplyOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/OpenOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/OpenOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/PowerOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/PowerOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/SubtractOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/SubtractOperator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681832909148</updated>
-      <workItem from="1681832910441" duration="1546000" />
+      <workItem from="1681832910441" duration="1947000" />
     </task>
     <servers />
   </component>

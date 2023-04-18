@@ -1,8 +1,8 @@
 package evaluator;
 
 
-import edu.csc413.calculator.exceptions.InvalidTokenException;
-import edu.csc413.calculator.operators.*;
+import exceptions.InvalidTokenException;
+import operators.*;
 
 import javax.management.openmbean.OpenMBeanAttributeInfo;
 import java.util.Iterator;

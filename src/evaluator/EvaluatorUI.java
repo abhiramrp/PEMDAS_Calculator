@@ -1,6 +1,6 @@
 package evaluator;
 
-import edu.csc413.calculator.exceptions.InvalidTokenException;
+import exceptions.InvalidTokenException;
 
 import javax.swing.*;
 import java.awt.*;
