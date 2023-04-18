@@ -2,7 +2,7 @@ package operators;
 
 import evaluator.Operand;
 
-public class PowerOperator extends Operator{
+public class ExponentOperator extends Operator{
     @Override
     public int priority() {
         return 3;

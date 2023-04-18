@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32bf511f-8a26-44aa-9ebd-a273470f5c07" name="Changes" comment="Fixed all imports">
+      <change afterPath="$PROJECT_DIR$/media/calculator.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operators/ExponentOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/evaluator/Evaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evaluator/Evaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/evaluator/EvaluatorUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evaluator/EvaluatorUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operators/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/PowerOperator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681832909148</updated>
       <workItem from="1681832910441" duration="2179000" />
-      <workItem from="1681838768124" duration="743000" />
+      <workItem from="1681838768124" duration="2334000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed all imports">
       <created>1681838251297</created>
